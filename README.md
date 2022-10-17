@@ -13,3 +13,7 @@
 
 ### Browser Chat Screenshot 
 <img width="1440" alt="Screen Shot 2022-10-16 at 1 01 00 AM" src="https://user-images.githubusercontent.com/94776104/196020960-ee5d21b4-5c53-4c66-9620-2b0109851cd9.png">
+
+### License
+
+MIT License
